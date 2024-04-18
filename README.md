@@ -1,4 +1,4 @@
-### 안녕하세요 코딩 잼민이입니다.👋
+### 안녕하세요.👋
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fksikk)](https://hits.seeyoufarm.com)
 <!--
 **ksikk/ksikk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
